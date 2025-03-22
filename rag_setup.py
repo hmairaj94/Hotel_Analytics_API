@@ -120,6 +120,7 @@ def setup_rag_system(data_path='cleaned_hotel_bookings.csv', analytics_path='pre
         "What is the cancellation rate?"
     ]
     
+    
     for question in test_questions:
         try:
             logger.info(f"Testing question: '{question}'")
