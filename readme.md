@@ -160,3 +160,9 @@ This project is an **LLM-Powered Booking Analytics & QA System** developed as pe
 - No real-time data updates (static dataset).
 - RAG accuracy varies with question complexity.
 - No formal performance evaluation metrics.
+![Screenshot (85)](https://github.com/user-attachments/assets/2d5ca3c4-f5e6-4992-94b0-53172259caee)
+![Screenshot (86)](https://github.com/user-attachments/assets/5a599107-a92c-419f-a0c2-e8a374b9ff15)
+![Screenshot (87)](https://github.com/user-attachments/assets/d1f64391-e4b4-479f-b316-bd6a4f63aacf)
+![Screenshot (88)](https://github.com/user-attachments/assets/df5680db-8361-4de4-9d70-a2a13fd4ac1c)
+![Screenshot (89)](https://github.com/user-attachments/assets/b0ed694d-5ab3-4e1c-b4c5-e9fa1879d24b)
+
