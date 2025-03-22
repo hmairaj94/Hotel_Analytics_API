@@ -130,6 +130,7 @@ if __name__ == "__main__":
     
     os.makedirs('visualizations', exist_ok=True)
     
+    
     analytics = generate_analytics('cleaned_hotel_bookings.csv')
     
     print("\nAnalytics Summary:")
