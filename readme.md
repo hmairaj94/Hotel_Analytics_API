@@ -160,4 +160,3 @@ This project is an **LLM-Powered Booking Analytics & QA System** developed as pe
 - No real-time data updates (static dataset).
 - RAG accuracy varies with question complexity.
 - No formal performance evaluation metrics.
-
